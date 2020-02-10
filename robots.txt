@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aekoofees.jjrtools.com/sitemap.xml
